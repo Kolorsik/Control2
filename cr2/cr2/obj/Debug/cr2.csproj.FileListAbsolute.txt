@@ -1,0 +1,6 @@
+D:\Мои начинания\ООП\КР\cr2\cr2\bin\Debug\cr2.exe
+D:\Мои начинания\ООП\КР\cr2\cr2\bin\Debug\cr2.pdb
+D:\Мои начинания\ООП\КР\cr2\cr2\obj\Debug\cr2.csprojResolveAssemblyReference.cache
+D:\Мои начинания\ООП\КР\cr2\cr2\obj\Debug\cr2.csproj.CoreCompileInputs.cache
+D:\Мои начинания\ООП\КР\cr2\cr2\obj\Debug\cr2.exe
+D:\Мои начинания\ООП\КР\cr2\cr2\obj\Debug\cr2.pdb
