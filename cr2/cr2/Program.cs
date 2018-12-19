@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace cr2
 {
+    //2 вариант
     class SuperHashSet<T> : HashSet<T> where T : struct
     {
 
